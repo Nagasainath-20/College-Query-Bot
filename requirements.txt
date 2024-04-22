@@ -8,7 +8,6 @@ faiss-cpu
 langchain_google_genai
 playsound 
 gtts
-setuptools wheel
 google-trans-new
 pyttsx3
 speechrecognition
