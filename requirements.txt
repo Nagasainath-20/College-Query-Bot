@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+playsound 
+gtts
+setuptools wheel
+google-trans-new
+pyttsx3
+speechrecognition
